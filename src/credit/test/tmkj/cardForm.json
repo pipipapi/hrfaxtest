@@ -1,0 +1,129 @@
+{
+    "pub": {
+        "orderNo": "vx018040000111133339999025",
+        "bankCode": "0180400023",
+        "assurerNo": "S36026576",
+        "platNo": "tmkj",
+        "bankType": "ICBC",
+        "productType": 1
+    },
+    "req": {
+        "lender": {
+            "idCard": "123456789123456789",
+            "phoneNum": "13800000000",
+            "userName": "老曹",
+            "pics": [
+                {
+                    "picFileName": "web-2e50046f-f14e-02cd-151a-2b99c10072fc.jpg",
+                    "picAddress": "http://192.168.0.186:82/web-2e50046f-f14e-02cd-151a-2b99c10072fc.jpg",
+                    "picId": 322231288,
+                    "picCode": "sfzzm"
+                },
+                {
+                    "picFileName": "web-eddb4b7a-99da-dd0e-d110-7764386b6219.jpg",
+                    "picAddress": "http://192.168.0.186:82/web-eddb4b7a-99da-dd0e-d110-7764386b6219.jpg",
+                    "picId": 322231289,
+                    "picCode": "sfzfm"
+                },
+                {
+                    "picFileName": "web-ea69bf77-8724-6b86-4aed-247b4fbae845.JPG",
+                    "picAddress": "http://192.168.0.186:82/web-ea69bf77-8724-6b86-4aed-247b4fbae845.JPG",
+                    "picId": 322231290,
+                    "picCode": "zxsqs"
+                },
+                {
+                    "picFileName": "web-37655d1b-551f-d9b0-b3a6-ec9b5f3ab3ca.JPG",
+                    "picAddress": "http://192.168.0.186:82/web-37655d1b-551f-d9b0-b3a6-ec9b5f3ab3ca.JPG",
+                    "picId": 322231298,
+                    "picCode": "sjcxsqs"
+                },
+                {
+                    "picFileName": "web-dc145a83-95e9-d325-6f4f-92cb4ca2a2ab.jpg",
+                    "picAddress": "http://192.168.0.186:82/web-dc145a83-95e9-d325-6f4f-92cb4ca2a2ab.jpg",
+                    "picId": 322231299,
+                    "picCode": "zxsqszp"
+                }
+            ]
+        },
+        "spouse": [
+            {
+                "relationName": "母子",
+                "idCard": "1234567894567890",
+                "phoneNum": "13700000000",
+                "userName": "张三",
+                "relationShip": 2,
+                "pics": [
+                    {
+                        "picFileName": "web-b94b4b90-7e58-1f6a-6146-ce4a06270a3d.jpg",
+                        "picAddress": "http://192.168.0.186:82/web-b94b4b90-7e58-1f6a-6146-ce4a06270a3d.jpg",
+                        "picId": 322231305,
+                        "picCode": "sfzzm"
+                    },
+                    {
+                        "picFileName": "web-1b5570fe-717a-9a39-5633-3d0adb06c89e.JPG",
+                        "picAddress": "http://192.168.0.186:82/web-1b5570fe-717a-9a39-5633-3d0adb06c89e.JPG",
+                        "picId": 322231306,
+                        "picCode": "sfzfm"
+                    },
+                    {
+                        "picFileName": "web-316680f4-caf5-c7a5-c9c9-839a6cf7511b.JPG",
+                        "picAddress": "http://192.168.0.186:82/web-316680f4-caf5-c7a5-c9c9-839a6cf7511b.JPG",
+                        "picId": 322231309,
+                        "picCode": "zxsqs"
+                    },
+                    {
+                        "picFileName": "web-e05d7011-2b3b-436d-06dd-4884a828fe25.jpg",
+                        "picAddress": "http://192.168.0.186:82/web-e05d7011-2b3b-436d-06dd-4884a828fe25.jpg",
+                        "picId": 322231307,
+                        "picCode": "sjcxsqs"
+                    },
+                    {
+                        "picFileName": "web-94d3bdd6-3d2c-b17a-da21-6aea812a0fe0.jpg",
+                        "picAddress": "http://192.168.0.186:82/web-94d3bdd6-3d2c-b17a-da21-6aea812a0fe0.jpg",
+                        "picId": 322231308,
+                        "picCode": "zxsqszp"
+                    }
+                ]
+            },
+            {
+                "relationName": "配偶",
+                "idCard": "098765432098765432",
+                "phoneNum": "13900000000",
+                "userName": "张三",
+                "relationShip": 1,
+                "pics": [
+                    {
+                        "picFileName": "web-fa221800-92d5-6deb-9b26-d8596b63c7b8.JPG",
+                        "picAddress": "http://192.168.0.186:82/web-fa221800-92d5-6deb-9b26-d8596b63c7b8.JPG",
+                        "picId": 322231300,
+                        "picCode": "sfzzm"
+                    },
+                    {
+                        "picFileName": "web-cd0b6f61-a0af-5856-d003-3d000bf05601.JPG",
+                        "picAddress": "http://192.168.0.186:82/web-cd0b6f61-a0af-5856-d003-3d000bf05601.JPG",
+                        "picId": 322231301,
+                        "picCode": "sfzfm"
+                    },
+                    {
+                        "picFileName": "web-3169ab4a-5825-e0ed-2909-d778e703ec11.JPG",
+                        "picAddress": "http://192.168.0.186:82/web-3169ab4a-5825-e0ed-2909-d778e703ec11.JPG",
+                        "picId": 322231302,
+                        "picCode": "zxsqs"
+                    },
+                    {
+                        "picFileName": "web-acb6745d-48b7-c348-a9fb-90f428f75dad.JPG",
+                        "picAddress": "http://192.168.0.186:82/web-acb6745d-48b7-c348-a9fb-90f428f75dad.JPG",
+                        "picId": 322231303,
+                        "picCode": "sjcxsqs"
+                    },
+                    {
+                        "picFileName": "web-8484ce3b-2990-81ed-fe97-2fc55b8f48ee.JPG",
+                        "picAddress": "http://192.168.0.186:82/web-8484ce3b-2990-81ed-fe97-2fc55b8f48ee.JPG",
+                        "picId": 322231304,
+                        "picCode": "zxsqszp"
+                    }
+                ]
+            }
+        ]
+    }
+}

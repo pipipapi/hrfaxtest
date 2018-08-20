@@ -1,0 +1,44 @@
+{
+	"pub": {
+		"orderNo": "vx018040000111133339999025",
+		"bankCode": "0180400023",
+		"assurerNo": "S36026576",
+		"platNo": "tmkj",
+		"bankType": "ICBC",
+		"productType": 1
+	},
+	"req": {
+		"carType": 0,
+		"downloadMode": 1,
+		"intentionPrice": 10000,
+		"financeCharge": 10000,
+		"lender": {
+			"idCard": "330327199004108177",
+			"issueAuthority": "浙江杭州",
+			"phoneNum": "13800000000",
+			"userName": "胖哥专用别的兄弟再建个不好意思哈哈",
+			"startDate": "2017.01.01",
+			"endDate": "2019.01.01",
+			"familyAddress": "浙江杭州",
+			"pics": [{
+					"picFileName": "web-2e50046f-f14e-02cd-151a-2b99c10072fc.jpg",
+					"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+					"picId": 322231288,
+					"picCode": "sfzzm"
+				},
+				{
+					"picFileName": "web-eddb4b7a-99da-dd0e-d110-7764386b6219.jpg",
+					"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+					"picId": 322231289,
+					"picCode": "sfzfm"
+				},
+				{
+					"picFileName": "web-ea69bf77-8724-6b86-4aed-247b4fbae845.JPG",
+					"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+					"picId": 322231290,
+					"picCode": "zxsqs"
+				}
+			]
+		}
+	}
+}

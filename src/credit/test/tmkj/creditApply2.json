@@ -1,0 +1,135 @@
+{
+	"pub": {
+		"orderNo": "vx018040000111133339999021",
+		"bankCode": "0180400023",
+		"assurerNo": "S36026576",
+		"platNo": "tmkj",
+		"bankType": "ICBC",
+		"productType": 1
+	},
+	"req": {
+		"carType": 0,
+		"downloadMode": 1,
+		"intentionPrice": 10000,
+		"financeCharge": 10000,
+		"lender": {
+			"idCard": "330327199004108177",
+			"issueAuthority": "浙江杭州",
+			"phoneNum": "13800000000",
+			"userName": "胖哥专用别的兄弟再建个不好意思哈哈",
+			"startDate": "2017.01.01",
+			"endDate": "2019.01.01",
+			"familyAddress": "浙江杭州",
+			"pics": [{
+					"picFileName": "web-2e50046f-f14e-02cd-151a-2b99c10072fc.jpg",
+					"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+					"picId": 322231288,
+					"picCode": "sfzzm"
+				},
+				{
+					"picFileName": "web-eddb4b7a-99da-dd0e-d110-7764386b6219.jpg",
+					"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+					"picId": 322231289,
+					"picCode": "sfzfm"
+				},
+				{
+					"picFileName": "web-ea69bf77-8724-6b86-4aed-247b4fbae845.JPG",
+					"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+					"picId": 322231290,
+					"picCode": "zxsqs"
+				}
+			]
+		},
+		"spouse": [{
+				"relationName": "母子",
+				"idCard": "1234567891234567829",
+				"issueAuthority": "浙江杭州",
+				"phoneNum": "13800000000",
+				"userName": "郭小五",
+				"startDate": "2017.01.01",
+				"endDate": "2019.01.01",
+				"familyAddress": "浙江杭州",
+				"relationShip": 2,
+				"pics": [{
+						"picFileName": "web-b94b4b90-7e58-1f6a-6146-ce4a06270a3d.jpg",
+						"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+						"picId": 322231305,
+						"picCode": "sfzzm"
+					},
+					{
+						"picFileName": "web-1b5570fe-717a-9a39-5633-3d0adb06c89e.JPG",
+						"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+						"picId": 322231306,
+						"picCode": "sfzfm"
+					},
+					{
+						"picFileName": "web-316680f4-caf5-c7a5-c9c9-839a6cf7511b.JPG",
+						"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+						"picId": 322231309,
+						"picCode": "zxsqs"
+					}
+				]
+			},
+			{
+				"relationName": "配偶",
+				"idCard": "09876543209876543",
+				"issueAuthority": "浙江杭州",
+				"phoneNum": "13900000000",
+				"userName": "张三",
+				"startDate": "2017.01.01",
+				"endDate": "2019.01.01",
+				"familyAddress": "浙江杭州",
+				"relationShip": 1,
+				"pics": [{
+						"picFileName": "web-fa221800-92d5-6deb-9b26-d8596b63c7b8.JPG",
+						"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+						"picId": 322231300,
+						"picCode": "sfzzm"
+					},
+					{
+						"picFileName": "web-cd0b6f61-a0af-5856-d003-3d000bf05601.JPG",
+						"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+						"picId": 322231301,
+						"picCode": "sfzfm"
+					},
+					{
+						"picFileName": "web-3169ab4a-5825-e0ed-2909-d778e703ec11.JPG",
+						"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+						"picId": 322231302,
+						"picCode": "zxsqs"
+					}
+				]
+			}
+		],
+		"guarantee": [{
+			"relationName": "同学",
+			"idCard": "123456789123456784",
+			"issueAuthority": "浙江杭州",
+			"phoneNum": "13800000000",
+			"userName": "李四",
+			"startDate": "2017.01.01",
+			"endDate": "2019.01.01",
+			"familyAddress": "浙江杭州",
+			"relationShip": 1,
+			"pics": [{
+					"picFileName": "web-fa221800-92d5-6deb-9b26-d8596b63c7b8.JPG",
+					"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+					"picId": 322231300,
+					"picCode": "sfzzm"
+				},
+				{
+					"picFileName": "web-cd0b6f61-a0af-5856-d003-3d000bf05601.JPG",
+					"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+					"picId": 322231301,
+					"picCode": "sfzfm"
+				},
+				{
+					"picFileName": "web-3169ab4a-5825-e0ed-2909-d778e703ec11.JPG",
+					"picAddress": "http://hjhjkh.oss-cn-hangzhou.aliyuncs.com/carloan-test/IOS20170306162349.jpg",
+					"picId": 322231302,
+					"picCode": "zxsqs"
+				}
+			]
+		}]
+	}
+}
